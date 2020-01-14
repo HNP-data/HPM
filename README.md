@@ -3,11 +3,11 @@ Supplementary data for "Wild spirits: Elevated hypomanic tendencies are associat
 
 This folder includes the following: 
 
-Data S1.
+Data S1. Study 1, SPSS datafile.
 
-Data S2.
+Data S2. Study 2, SPSS datafile.
 
-Data S3.
+Data S3. Study 3, SPSS datafile.
 
 Data S4.
 
